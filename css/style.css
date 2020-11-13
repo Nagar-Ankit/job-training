@@ -1,0 +1,133 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    
+    height: 790px;
+    margin: 2px;
+    background-color: rgb(87, 77, 77);
+    color: white;
+    background-image: url("https://www.smartmarketnews.com/admin/assets/images/newsimages/2069.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.left {
+    
+    display: inline-block;
+    position: absolute;
+    left: 129px;
+    top: 50px;
+    font-size: 40px;
+}
+
+.right {
+    
+    position: absolute;
+    right: 164px;
+    top: 10px;
+    display: inline-block;
+    margin: 18px;
+    font-size: 26px;
+    
+}
+
+.navbaar {
+    list-style: none;
+    display: inline-block;
+}
+
+.navbaar li {
+    float: right;
+
+}
+
+.navbaar li a {
+    color: white;
+    text-decoration: none;
+    padding: 3px;
+    margin: 10px;
+    
+}
+
+.center {
+    
+    font-size: 40px;
+    position: absolute;
+    display: inline-block;
+    width: 454px;
+    height: 296px;
+    top: 31%;
+    left: 45%;
+    margin-left: -150px;
+    margin-top: -100px;
+    
+}
+
+.list ul li {
+    
+    text-decoration: none;
+    list-style: none;
+    border: 2px solid white;
+    margin: 4px;
+    display: inline-block;
+    font-size: 23px;
+    width: 46%;
+    height: 50px;
+    padding: 8px 21px;
+
+}
+.list ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+#id1 {
+    background-color: rgb(118, 118, 233);
+}
+
+.container2 {
+    
+    width: 2000px;
+    height: 500px;
+    /* margin: auto; */
+    margin: 45px 0px 0px 350px;
+    /* padding: 25px 157px; */
+}
+
+.box {
+    display: inline-block;
+    margin: 4px;
+
+}
+
+#item1 {
+    
+    float: left;
+    width: 25%;
+    height: 350px;
+    font-size: 22px;
+    margin: 44px;
+}
+
+#item2 {
+    
+    float: center;
+    width: 25%;
+    height: 350px;
+    margin: 44px;
+    font-size: 22px;
+}
+
+#item3 {
+    
+    float: right;
+    /* float: left; */
+    width: 25%;
+    height: 350px;
+    font-size: 22px;
+    margin: 44px;
+}
+
+/* ************************** using media screen querry ***************** */

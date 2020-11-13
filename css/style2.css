@@ -1,0 +1,375 @@
+*{
+    box-sizing: border-box;
+}
+
+/* ***************************************** container's coding area  ********************* */
+.container{
+    /* border: 2px solid red; */
+    color: white;
+    width: 100%;
+    height: 342px;
+    /* font-size: 14px; */
+    /* margin: 3px; */
+    /* padding: 30px 0 13px 35px !important; */
+    background-image: url(https://www.ibm.com/blogs/blockchain/wp-content/uploads/2020/04/Retina-Display-646399094.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    padding-left: 51px;
+}
+.container-child{
+    /* border: 2px solid black; */
+    width: 814px;
+    height: 288px;
+    padding: 39px;
+}
+
+.a-heading {
+    /* border: 2px solid blue; */
+    display: inline-block;
+}
+#a-header-id1{
+    width: 543px;
+    font-size: 27px;
+    font-weight: 600;
+    line-height: 1.36;
+    margin-top: 20px ;
+    margin-bottom: 10px;
+}
+/* #a-header-id2{
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+} */
+
+
+.a-para {
+    /* border: 2px solid blue; */
+    display: inline-block;
+}
+
+/* ****************************** container2 coding area  ************************* */
+.container2 {
+    /* border: 2px solid green; */
+    height: 400px;
+    margin: 4px;
+    padding: 35px 0px;
+}
+
+.b-header{
+    /* border: 2px solid blue; */
+    /* display: inline-block; */
+    /* margin: auto; */
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    height: 60px;
+    font-size: 37px;
+
+}
+.b-para{
+    /* border: 2px solid blue; */
+    text-align: center;
+    font-size: 22px;
+    padding: 12px;
+}
+.b-pic{
+    /* border: 2px solid blue; */
+    padding: 4px;
+}
+.b-class-1 h2{
+
+}
+
+/* ***************************** *************container3 coding area **************************** */
+.container3{
+    /* border: 2px solid rgb(107, 10, 26); */
+    padding-left: 60px !important;
+    padding-right: 60px !important;
+    padding-top: 38px !important;
+    padding-bottom: 60px !important;
+}
+.c-text h2{
+    /* border: 2px solid blue; */
+    
+}
+.c-header{
+    text-align: center;
+    height: 53px;
+    font-size: 31px;
+    
+}
+.c-para{
+    /* border: 2px solid blue; */
+    text-align: center;
+    font-size: 22px;
+}
+.c-image{
+    /* border: 2px solid blue; */
+    text-align: center;
+    padding: 30px;
+}
+
+
+/*  ****************************** container4 coding  *************************************/
+
+.container4{
+   
+    background-color: #f8f8f8;
+    width: 100%;
+    height:1100px;
+    margin: 8px;
+    padding-left: 60px !important;
+    padding-right: 60px !important;
+    padding-top: 60px !important;
+    padding-bottom: 60px !important;
+}
+.d-heading h2{
+    
+    text-align: center;
+    height: 53px;
+    font-size: 31px;
+}
+
+#d-para-id-1{
+    
+    text-align: center;
+    font-size: 22px;
+}
+
+.d-para-a{
+
+    width: 100%;
+    height: 397px;
+    display: inline-block;
+    text-align: center;
+    display: flex;
+    margin-bottom: 14px;
+    padding: 22px;
+}
+
+.d-content-a{
+    
+    padding: 13px;
+    text-align: center;
+    margin: 20px;
+    background: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.d-para-abc{
+    padding-top: 12px;
+}
+
+.d-para-abcd{
+    flex: right;
+}
+
+.d-para-b{
+    
+    width: 100%;
+    height: 397px;
+    display: inline-block;
+    display: flex;
+    padding :22px;
+}
+
+.d-image-6{
+    float: left;
+}
+
+.d-content-b{
+
+    padding: 13px;
+    text-align: center;
+    margin: 20px;
+    background: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* **************************** container5 coding area ****************** */
+
+.container5{
+    /* border: 2px solid red; */
+    padding: 5px;
+}
+.e-head{
+    /* border: 2px solid blue; */
+    text-align: center;
+}
+#e-head-id1{
+    width: 100%;
+    height: 55px;
+    font-size: 31px;
+}
+#e-head-id2{
+    width: 100%;
+    height: 55px;
+    font-size: 27px;
+}
+.e-images{
+    padding: 20px;
+    display: inline-block;
+    /* border: 2px solid blue; */
+    width: 103px;
+    height: 115px;
+    text-align: center;
+    margin: 33px 83px 20px 62px;
+}
+
+/* ************************* container 6 coding area ***************************** */
+
+.container6{
+    /* border: 2px solid red; */
+    height: 700px;
+    margin-top: 142px;
+}
+.f-header-a{
+    /* border: 2px solid blue; */
+    text-align: center;
+    height: 58px;
+    margin-top: 24px;
+    font-size: 31px;
+    /* display: inline-block; */
+    /* justify-content: center; */
+}
+.f-para-a{
+    /* border: 2px solid blue; */
+    text-align: center;
+    height: 58px;
+    margin-bottom: 21px;
+    font-size: 22px;
+    width: 800px;
+    margin-left: 265px;
+}
+.f-image{
+    /* border: 2px solid black; */
+    margin-bottom: 4px;
+    text-align: center;
+    height: 219px;
+}
+
+.f-content{
+    margin: 9px ;
+    /* border: 2px solid green; */
+    padding-top: 24px;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    /* height: 441px; */
+}
+
+.f-content-a{
+    /* border: 2px solid black; */
+    display: inline-block;
+    text-align: center;
+    height: 130px;
+    width: 240px;
+}
+.f-content-a1{
+    /* border: 2px solid red; */
+    height: 50px;
+}
+.f-content-a1-ul{
+    height: 200px;
+}
+
+/* ********************** container 7 coding area ********************** */
+
+.container7{
+    /* border: 2px solid red; */
+    margin: 7px;
+    background-color: #f8f8f8;
+}
+
+.g-header{
+    /* border: 2px solid blue; */
+    margin: 4px;
+    padding: 21px;
+    text-align: center;
+    font-size: 21px;
+    /* font-size: 30px; */
+}
+
+.g-box-a{
+    /* border: 2px solid blue; */
+    padding-left: 147px;
+    padding-top: 18px;
+    padding-right: 100px;
+    text-align: center;
+    margin: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: flex;
+    
+}
+
+.g-box1{
+    /* border: 2px solid red; */
+    margin: 3px 21px 3px 3px;
+    width: 27%;
+    height: 256px;
+    text-align: center;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.g-box-b{
+    /* border: 2px solid blue; */
+    padding-left: 147px;
+    padding-top: 18px;
+    padding-right: 100px;
+    display: flex;
+    text-align: center;
+    margin: 70px 20px 20px 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+
+#g-box-a-id3{
+    margin-bottom: 12px;
+}
+
+/*  ********************* container 8 coding area ***************************** */
+
+.container8{
+    
+    padding: 32px 60px 60px 60px;
+    margin: 9px;
+}
+
+.h-header{
+
+    text-align: center;
+    margin-bottom: 50px;
+    width: 100%;
+    margin-left: 25px;
+    font-size: 25px;
+}
+
+.h-box{
+    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    height: 231px;
+    width: 759px;
+    margin-left: 237px;
+}
+
+.h-box-header{
+    padding-top: 18px;
+}
+
+.h-box-header a{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
+
+.h-box-para{
+    margin: 10px;
+    font-size: 24px;
+}
+
+.h-box-read-more a{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
